@@ -1,0 +1,31 @@
+/* Center the button and container */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #000; /* Black background */
+}
+
+/* your-font-name.css */
+@font-face {
+    font-family: 'YourFontName';
+    src: url('path/to/your-fonts/your-font-name.woff2') format('woff2');
+    /* Add more font formats if needed (e.g., .woff, .ttf, .otf) */
+    font-weight: normal;
+    font-style: normal;
+}
+
+button {
+    background-color: #000; /* Black background */
+    color: #fff; /* White text color */
+    border: 2px dashed #fff; /* White dashed border */
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#imageContainer {
+    margin-top: 20px;
+    text-align: center;
+}
