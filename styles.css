@@ -1,31 +1,68 @@
+/* Reset styles */
+body, h1, h2, h3, p, button, img {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
 /* Center the button and container */
 body {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    flex-direction: column; /* Align items vertically */
     height: 100vh;
     margin: 0;
     background-color: #000; /* Black background */
+    color: #fff;
+}
+
+body p {
+    color: #3f3f3f;
 }
 
 /* your-font-name.css */
 @font-face {
-    font-family: 'YourFontName';
-    src: url('path/to/your-fonts/your-font-name.woff2') format('woff2');
-    /* Add more font formats if needed (e.g., .woff, .ttf, .otf) */
+    font-family: 'Atlantis';
+    src: url('fonts/AtlantisInternational-jen0.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
+}
+
+#text {
+    font-family: 'Atlantis', sans-serif; /* Apply the Atlantis font */
+    text-align: center;
+    margin-top: 50px; /* Adjust as needed */
 }
 
 button {
     background-color: #000; /* Black background */
     color: #fff; /* White text color */
     border: 2px dashed #fff; /* White dashed border */
+    font-family: 'Atlantis', sans-serif; /* Apply the Atlantis font */
+    font-size: 16px;
     padding: 10px 20px;
     cursor: pointer;
+    margin-top: 20px; /* Adjust as needed */
 }
 
 #imageContainer {
     margin-top: 20px;
+    margin-bottom: 20px;
     text-align: center;
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center items horizontally */
+    /* Add any other styling you need */
+}  
+
+#randomImageContainer {
+    /* Styles for the image container */
+    /* For example: */
+    text-align: center;
+    padding-top: 30px; /* Use padding-top instead of margin-top */
+}
+
+#randomImage {
+    width: 200px; /* Set the desired width */
+    height: auto; /* Maintain aspect ratio */
+    max-width: 100%; /* Ensure the image doesn't overflow the container */
 }
