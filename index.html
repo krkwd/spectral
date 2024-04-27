@@ -2,33 +2,29 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <link rel="icon" href="favicon.png" type="image/x-icon">
-	
-	
-    <title>The Spectral Cross</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Annulus</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div id="text">
-        <p>
-    + + + + + + + + + + + + + + + + +
-    <br><br>
-    + + + &nbsp;THE SPECTRAL CROSS  + + +
-    <br><br>
-    + + + + + + + + + + + + + + + + +
-<br<br><br><br>
-ASK YOUR QUESTION. BE SPECIFIC.
-</p>
-</div>
-    <div id="imageContainer">
-        <button id="randomImageButton">NEW CROSS</button>
-        <!-- Replace the src attribute with your actual image URL -->
-        <img id="randomImage">
+    <div class="content">
+        <img id="mainImage" src="imgs/00.png" alt="Reading Image" class="image-transition">
+
+        <button id="updateButton">
+            <span>CATALYZE</span>
+        </button>
+
+        
+        <div id="reading">
+            <div id="readingTitle" class="reading-title"></div>
+            <div id="readingSubtitle" class="reading-subtitle"></div>
+            <div id="readingDescription" class="reading-description"></div>
+            <div id="readingText" class="reading-text"></div>
+        </div>
+        
+
+        <audio id="soundEffect" src="snds/cnfrmtn.mp3" preload="auto"></audio>
     </div>
-
-    
-
-    <script src="script.js"></script>
+    <script src="cross-script.js"></script>
 </body>
 </html>
