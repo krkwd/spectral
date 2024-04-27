@@ -1,0 +1,147 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+
+body, html {
+    margin: 0;
+    padding: 0;
+    background-color: black; /* Set the background to black */
+    height: 100%; /* Make sure the body takes the full height of the viewport */
+}
+
+:root {
+    --clr: #e63946; /* Example color, replace with your choice */
+}
+
+#updateButton {
+    width: 120px;
+    height: 30px;
+    border: none;
+    outline: none;
+    color: grey;
+    background: #111;
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    border-radius: 10px;
+  }
+  
+#updateButton:before {
+    content: '';
+    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+    position: absolute;
+    top: -2px;
+    left:-2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(5px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing 20s linear infinite;
+    opacity: 0;
+    transition: opacity .3s ease-in-out;
+    border-radius: 10px;
+}
+
+#updateButton:active {
+    color: #000
+}
+
+#updateButton:active:after {
+    background: transparent;
+}
+
+#updateButton:hover:before {
+    opacity: 1;
+}
+
+#updateButton:after {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #111;
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+}
+
+@keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 400% 0; }
+    100% { background-position: 0 0; }
+}
+
+.content {
+    text-align: center;
+    color: white; /* Set default text color to white for the content */
+    max-width: 620px; /* Set a max-width for the content area */
+    margin: 0 auto; /* Center the content area */
+    margin-bottom: 50px; /* Add space below the image */
+}
+
+#updateButton {
+    /* Other styles... */
+    margin-top: 20px; /* Add space above the button */
+    margin-bottom: 20px; /* Add space below the button */
+}
+
+.image-transition {
+    width: 100%;
+    height: auto;
+    transition: opacity 1s ease-in-out; /* Smooth transition for the opacity */
+    opacity: 1; /* Image is fully visible initially */
+}
+
+#imageContainer {
+    transition: opacity 0.5s ease-in-out;
+    opacity: 0;
+}
+
+#imageContainer.fade {
+    opacity: 1;
+}
+
+#reading {
+    font-family: 'Roboto', sans-serif;
+    color: white; /* Default text color */
+    min-height: 20px; /* Give a minimum height */
+}
+
+.reading-title {
+    font-size: 16pt;
+    font-weight: bold;
+    /* Color will be set dynamically via JavaScript */
+}
+
+.reading-subtitle {
+    font-size: 8pt;
+    font-style: italic;
+    color: grey;
+}
+
+.reading-description {
+    font-size: 10pt;
+    color: grey;
+}
+
+.reading-breaks {
+    margin-top: 10t; /* Adjust line break size */
+}
+
+.reading-text {
+    font-size: 10pt;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#reading .reading-title,
+#reading .reading-subtitle,
+#reading .reading-description,
+#reading .reading-text {
+}
+
+.visible {
+    display: block;
+}

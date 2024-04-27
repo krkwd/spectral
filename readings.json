@@ -1,0 +1,93 @@
+ [
+  
+{
+  "name": "VERMILLION SOIL",
+  "color": "#A52A2A",
+  "attributes": "Stability (red earth) + Creation (orange spirit)",
+  "description": "Birth, Foundation, Beginning, Crystallization",
+  "text": "Viscera of loam, vein of leaf, blood of hand. A tree is haunted by the spirit of its seed. The veins in its highest leaves echo the lines of its planter's palm.",
+  "image": "01.png"
+},
+
+{
+  "name": "VERMILLION VOLCANO",
+  "color": "#A52A2A",
+  "attributes": "Volatility (red fire) + Creation (orange spirit)",
+  "description": "Eruption, Agitation, Perturbation, Emulsification",
+  "text": "Fire-forged spirit, sustenance of pain. Before soil can ripen beneath the loving sky, the earth must first bear the wounds of cultivation.",
+  "image": "02.png"
+},
+
+{
+  "name": "VERMILLION SAND",
+  "color": "#A52A2A",
+  "attributes": "Stability (red earth) + Destruction (orange fire)",
+  "description": "Pruning, Grooming, Erosion, Evaporation",
+  "text": "Shape through subtraction, erosion as becoming. A cactus sheds illusions of fig-ness amidst the silent reckonings of growth. The contours of our nature appear not in adornments, but in the bareness of what thrives in the desolation of time.",
+  "image": "03.png"
+},
+
+{
+  "name": "VERMILLION INFERNO",
+  "color": "#A52A2A",
+  "attributes": "Volatility (red fire) + Destruction (orange fire)",
+  "description": "Chaos, Havoc, Entropy, Combustion",
+  "text": "A conflagration, the world unmade. In the eye of the firestorm, where red cinders dance upon orange flames, lies the ashen womb of the phoenix.",
+  "image": "04.png"
+},
+
+{
+  "name": "ORANGE WOOD",
+  "color": "#ffa500",
+  "attributes": "Stability (red earth) + Movement (yellow air)",
+  "description": "Persistence, Resilience, Purpose, Will",
+  "text": "Roots anchored in ruined earth, airy crown aspiring to heaven. A mighty tree surges from the final whisper of fire.",
+  "image": "05.png"
+},
+
+{
+  "name": "ORANGE SMOKE",
+  "color": "#ffa500",
+  "attributes": "Volatility (red fire) + Movement (yellow air)",
+  "description": "Spontaneity, Impulsiveness, Recklessness, Haste",
+  "text": "Dancing on whims of wind, capricious and unyielding flickers of flame. Fire and smoke move with profound defiance, a testament to the wild, inscrutable will that propels them.",
+  "image": "06.png"
+},
+
+{
+  "name": "ORANGE BRICK",
+  "color": "#ffa500",
+  "attributes": "Stability (red earth) + Rest (yellow water)",
+  "description": "Silence, Stillness, Tranquility, Peace",
+  "text": "Thoughtful hands craft silent bricks, progeny of the passions of water and earth. The foundations of the world are crafted, not blown into place by hazard. They are crafted carefully, in silence and reflection.",
+  "image": "07.png"
+},
+
+{
+  "name": "ORANGE STEAM",
+  "color": "#ffa500",
+  "attributes": "Volatility (red fire) + Rest (yellow water)",
+  "description": "Tension, Agitation, Restlessness, Anticipation",
+  "text": "An essence begins to boil within the hidden chambers of the heart, building a force as potent as the earth's core. A call to rise from the ashes of what was, propelled by the fervent hope of what might be. The human heart can only endure so much stillness before it begs to race again. The human spirit runs hot. It warms the blood, and the blood must flow lest it begin to boil in its own veins.",
+  "image": "08.png"
+},
+
+{
+  "name": "BROWN STONE",
+  "color": "#7f4000",
+  "attributes": "Stability (red earth) + Endowment (green earth)",
+  "description": "Legacy, Soundness, Safety, Durability",
+  "text": "A foundation is laid upon the ground with deliberate and solemn resolve, forged from a respectful alliance between man's ambition and the earth's endurance. As it settles into the earth, it gives rise to a platform upon which new structures dare to rise. It is only from the strength of this foundation, so intimately entwined with the earth, that the future can be wrought. A testament to the enduring will to shape the world anew.",
+  "image": "09.png"
+},
+
+{
+  "name": "BROWN SAND",
+  "color": "#7f4000",
+  "attributes": "Volatility (red fire) + Endowment (green earth)",
+  "description": "Fragility, Unsteadiness, Uncertainty, Vulnerability",
+  "text": "The journey is marked not by the certainty of footing but by the precarious balance between design and the caprice of fate. In the acceptance of paths across dark and shifting sands, the soul finds its true measure. Building strong foundations does not ensure one is always standing upon them. Sometimes the builder must stand outside the safety of the structure, or traverse high and narrow beams during construction.",
+  "image": "10.png"
+}
+
+]
