@@ -80,17 +80,24 @@ body, html {
     margin-bottom: 50px; /* Add space below the image */
 }
 
+.header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    text-align: left; /* Align the link to the left */
+    padding: 10px 20px; /* Padding for spacing inside the footer */
+    background: transparent; /* Optional: style as needed */
+    z-index: 1000; /* High enough to stay above other content */
+}
+
 .info-link {
-    position: fixed;  /* Absolute positioning within .content */
-    top: 20px;           /* Position from the top edge of .content */
-    left: 20px;          /* Position from the left edge of .content */
-    color: #27379b;      /* Icon color, change as needed */
-    font-size: 24px;     /* Icon size, adjust as needed */
-    z-index: 1000;       /* Ensures it's above other content */
+    color: #27379b; /* Styling for the link icon */
+    font-size: 24px; /* Icon size */
 }
 
 .info-link:hover {
-    color: #0000ff;      /* Change color on hover for better interaction feedback */
+    color: #0000ff; /* Interaction feedback */
 
 #updateButton {
     /* Other styles... */
