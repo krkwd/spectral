@@ -80,6 +80,18 @@ body, html {
     margin-bottom: 50px; /* Add space below the image */
 }
 
+.info-link {
+    position: fixed;  /* Absolute positioning within .content */
+    top: 20px;           /* Position from the top edge of .content */
+    left: 20px;          /* Position from the left edge of .content */
+    color: #27379b;      /* Icon color, change as needed */
+    font-size: 24px;     /* Icon size, adjust as needed */
+    z-index: 1000;       /* Ensures it's above other content */
+}
+
+.info-link:hover {
+    color: #0000ff;      /* Change color on hover for better interaction feedback */
+
 #updateButton {
     /* Other styles... */
     margin-top: 20px; /* Add space above the button */
