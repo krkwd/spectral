@@ -1,7 +1,7 @@
  [
   
 {
-  "name": "VERMILLION SOIL",
+  "name": "VERMILION SOIL",
   "color": "#A52A2A",
   "attributes": "Stability (red earth) + Creation (orange spirit)",
   "description": "Birth, Foundation, Beginning, Crystallization",
@@ -10,7 +10,7 @@
 },
 
 {
-  "name": "VERMILLION VOLCANO",
+  "name": "VERMILION VOLCANO",
   "color": "#A52A2A",
   "attributes": "Volatility (red fire) + Creation (orange spirit)",
   "description": "Eruption, Agitation, Perturbation, Emulsification",
@@ -19,7 +19,7 @@
 },
 
 {
-  "name": "VERMILLION SAND",
+  "name": "VERMILION SAND",
   "color": "#A52A2A",
   "attributes": "Stability (red earth) + Destruction (orange fire)",
   "description": "Pruning, Grooming, Erosion, Evaporation",
@@ -28,7 +28,7 @@
 },
 
 {
-  "name": "VERMILLION INFERNO",
+  "name": "VERMILION INFERNO",
   "color": "#A52A2A",
   "attributes": "Volatility (red fire) + Destruction (orange fire)",
   "description": "Chaos, Havoc, Entropy, Combustion",
@@ -337,7 +337,8 @@
   "name": "CORAL VOLCANO",
   "color": "#FF7F50",
   "attributes": "Creation (orange spirit) + Attraction (violet fire)",
-  "description": "Brimming with power just beneath its surface, the volcano embodies the principle of imminent potential. Act as if you already possess that which you seek, and you will soon find it erupting into reality, shaping the landscape of your life.",
+  "description": "Confidence, Conviction, Fatih, Certitude",
+  "text": "Brimming with power just beneath its surface, the volcano embodies the principle of imminent potential. Act as if you already possess that which you seek, and you will soon find it erupting into reality, shaping the landscape of your life.",
   "image": "41.png"
 },
 {
