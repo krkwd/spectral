@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
 
 body, html {
@@ -136,22 +137,16 @@ body, html {
 }
 
 .reading-description {
-    font-size: 10pt;
-    color: grey;
+    font-size: 12pt;
+    color: white;
+    padding-top: 20px;
 }
 
 .reading-breaks {
     margin-top: 10t; /* Adjust line break size */
 }
 
-.reading-text {
-    font-size: 10pt;
-    padding-top: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
-    opacity: 0;
-    transition: opacity 1s ease-in-out;
-}
+
 }
 
 #reading .reading-title,
