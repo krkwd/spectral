@@ -26,13 +26,12 @@ function updateReading(reading) {
     const readingTitle = document.getElementById('readingTitle');
     const readingSubtitle = document.getElementById('readingSubtitle');
     const readingDescription = document.getElementById('readingDescription');
-    const readingText = document.getElementById('readingText');
+
 
     // Update text content
     readingTitle.textContent = reading.name;
     readingSubtitle.textContent = reading.attributes;
     readingDescription.textContent = reading.description;
-    readingText.textContent = reading.text;
 
      // Set colors dynamically from the JSON data
      readingTitle.style.color = reading.color; // Ensures the title uses the color specified in the data
@@ -41,7 +40,6 @@ function updateReading(reading) {
     readingTitle.style.opacity = 0;
     readingSubtitle.style.opacity = 0;
     readingDescription.style.opacity = 0;
-    readingText.style.opacity = 0;
 
     // Fade in the texts with some delay
     setTimeout(() => {
@@ -56,9 +54,6 @@ function updateReading(reading) {
         readingDescription.style.opacity = 1;
     }, 1200);
 
-    setTimeout(() => {
-        readingText.style.opacity = 1;
-    }, 1300);
 }
 
 function updateImage(imagePath) {
