@@ -1,38 +1,34 @@
  [
   
 {
-  "name": "VERMILION SOIL",
+  "name": "VERMILLION SOIL",
   "color": "#A52A2A",
   "attributes": "Stability (red earth) + Creation (orange spirit)",
   "description": "Birth, Foundation, Beginning, Crystallization",
-  "text": "A tree is shaped by the spirit of its seed. The veins in its highest leaves echo the lines of its planter's palm. Pay attention to beginnings, for within them the endings are shaped.",
   "image": "01.png"
 },
 
 {
-  "name": "VERMILION VOLCANO",
+  "name": "VERMILLION VOLCANO",
   "color": "#A52A2A",
   "attributes": "Volatility (red fire) + Creation (orange spirit)",
   "description": "Eruption, Agitation, Perturbation, Emulsification",
-  "text": "Before soil can ripen beneath the loving sky, the earth must first bear the wounds of cultivation. Break a pattern to summon novelty.",
   "image": "02.png"
 },
 
 {
-  "name": "VERMILION SAND",
+  "name": "VERMILLION SAND",
   "color": "#A52A2A",
   "attributes": "Stability (red earth) + Destruction (orange fire)",
   "description": "Pruning, Grooming, Erosion, Evaporation",
-  "text": "A cactus sheds illusions of fig-ness amidst the silent reckonings of growth. It is time to build shape through subtraction rather than addition.",
   "image": "03.png"
 },
 
 {
-  "name": "VERMILION INFERNO",
+  "name": "VERMILLION INFERNO",
   "color": "#A52A2A",
   "attributes": "Volatility (red fire) + Destruction (orange fire)",
   "description": "Chaos, Havoc, Entropy, Combustion",
-  "text": "In the eye of the firestorm, where cinders dance upon flames, lies the ashen womb of the phoenix. Use the creative power that hides within destruction.",
   "image": "04.png"
 },
 
@@ -41,7 +37,6 @@
   "color": "#ffa500",
   "attributes": "Stability (red earth) + Movement (yellow air)",
   "description": "Persistence, Resilience, Purpose, Will",
-  "text": "Strong roots anchored in ruined earth, an airy crown invading heaven. Draw upon the natural strength of your deepest self in order to thrive amongst adversity.",
   "image": "05.png"
 },
 
@@ -50,7 +45,6 @@
   "color": "#ffa500",
   "attributes": "Volatility (red fire) + Movement (yellow air)",
   "description": "Spontaneity, Impulsiveness, Recklessness, Haste",
-  "text": "Fire and smoke move with profound defiance, a testament to the wild, inscrutable will that propels them. Tap into the wildness within.",
   "image": "06.png"
 },
 
@@ -59,7 +53,6 @@
   "color": "#ffa500",
   "attributes": "Stability (red earth) + Rest (yellow water)",
   "description": "Silence, Stillness, Tranquility, Peace",
-  "text": "Garden walls offer refuge from the heavy gaze of the world. Don’t linger too long, lest sanctuary turn to cell.",
   "image": "07.png"
 },
 
@@ -68,7 +61,6 @@
   "color": "#ffa500",
   "attributes": "Volatility (red fire) + Rest (yellow water)",
   "description": "Tension, Agitation, Restlessness, Anticipation",
-  "text": "An essence is boiling within the hidden chambers of the heart. Acknowledge the mounting pressure within to avoid being caught off-guard by explosive emotions.",
   "image": "08.png"
 },
 
@@ -77,7 +69,6 @@
   "color": "#7f4000",
   "attributes": "Stability (red earth) + Endowment (green earth)",
   "description": "Legacy, Soundness, Safety, Durability",
-  "text": "Foundations of stone are laid with the weight of coming ages in mind, enduring beyond the brief span of their builders' days. Make an investment in a future beyond your own.",
   "image": "09.png"
 },
 
@@ -86,7 +77,6 @@
   "color": "#7f4000",
   "attributes": "Volatility (red fire) + Endowment (green earth)",
   "description": "Fragility, Unsteadiness, Uncertainty, Vulnerability",
-  "text": "On paths across dark and uncertain ground, the soul can make its true measure known. This is a time to confidently walk across shifting sands and embrace the opportunities that uncertainty affords.",
   "image": "10.png"
 },
 
@@ -95,7 +85,6 @@
   "color": "#7f4000",
   "attributes": "Stability (red earth) + Acceptance (green water)",
   "description": "Flexibility, Adaptability, Fluidity, Compromise",
-  "text": "Bricks laid in a rigid, unyielding pattern can create inflexible structures that are prone to cracking under pressure. Don’t try to control everything; allow some spaces between the bricks for flexibility and growth.",
   "image": "11.png"
 },
 {
@@ -103,7 +92,6 @@
   "color": "#7f4000",
   "attributes": "Volatility (red fire) + Acceptance (green water)",
   "description": "Risk, Hazard, Gambling, Speculation",
-  "text": "Without the heat of risk, no steam escapes the kettle. It is time to brew up a little audacity.",
   "image": "12.png"
 },
 {
@@ -111,7 +99,6 @@
   "color": "#8A2BE2",
   "attributes": "Stability (red earth) + Expansion (blue air)",
   "description": "Growth, Development, Advancement, Self-Awareness",
-  "text": "To ascend, you must have powerful roots in self-awareness. Ground yourself in honesty about your past, and clarity about your present, to nurture the growth that reaches towards the future.",
   "image": "13.png"
 },
 {
@@ -119,7 +106,6 @@
   "color": "#8A2BE2",
   "attributes": "Volatility (red fire) + Expansion (blue air)",
   "description": "Glory, Triumph, Fulfillment, Victory",
-  "text": "Mighty billows of smoke from the fires of glory eventually dissipate into the ether. Deeply savor a moment of success, and be prepared for the efforts that must follow to sustain it.",
   "image": "14.png"
 },
 {
@@ -127,7 +113,6 @@
   "color": "#8A2BE2",
   "attributes": "Stability (red earth) + Contraction (blue earth)",
   "description": "Wane, Abatement, Descent, Autumn",
-  "text": "Within the weight of autumn’s descent there lies a beauty unspoken, manifest in the quiet surrender of falling leaves. There is grace in yielding to the end of a cycle.",
   "image": "15.png"
 },
 {
@@ -135,7 +120,6 @@
   "color": "#8A2BE2",
   "attributes": "Volatility (red fire) + Contraction (blue earth)",
   "description": "Departure, Withdrawal, Conclusion, Winter",
-  "text": "As sand slips silently through the hourglass, it marks the inevitable conclusion of one leg of the journey and the quiet onset of another. Embrace the transition with grace, preparing yourself for the new paths that await beyond the horizon.",
   "image": "16.png"
 },
 {
@@ -143,7 +127,6 @@
   "color": "#FF007F",
   "attributes": "Stability (red earth) + Revelation (indigo spirit)",
   "description": "Education, Orientation, Preparation, Instruction",
-  "text": "Rich earth must be nurtured with the basics—water, sun, and care—before it can support the most ambitious of gardens. Time to focus on competence and mastery of the basics so you can focus on innovation later.",
   "image": "17.png"
 },
 {
@@ -151,7 +134,6 @@
   "color": "#FF007F",
   "attributes": "Volatility (red fire) + Revelation (indigo spirit)",
   "description": "Crucible, Initiation, Trial, Ordeal",
-  "text": "Under the pressure of tribulation, the raw, untempered essence of knowledge anneals into the hardened rock of wisdom. It is time to seek experience over erudition.",
   "image": "18.png"
 },
 {
@@ -159,7 +141,6 @@
   "color": "#FF007F",
   "attributes": "Stability (red earth) + Mystery (indigo water)",
   "description": "Ingenuity, Innovation, Originality, Novelty",
-  "text": "A pile of dull bricks can build an ordinary wall or an astonishing castle. Focus on innovation now rather than competence, and reshape the mundane into the extraordinary.",
   "image": "19.png"
 },
 
@@ -168,7 +149,6 @@
   "color": "#FF007F",
   "attributes": "Volatility (red fire) + Mystery (indigo water)",
   "description": "Pneuma, Psyche, Subliminality, Subconsciousness",
-  "text": "Ethereal wisps of insight carry hidden messages that will soon dissipate. It is time to focus on the messages your subconscious is trying to deliver through your dreams, catching these fleeting insights before they vanish.",
   "image": "20.png"
 },
 {
@@ -176,7 +156,6 @@
   "color": "#FFC0CB",
   "attributes": "Stability (red earth) + Attraction (purple fire)",
   "description": "Traditions, Conventions, Rules, Conformity",
-  "text": "Lines in the sand are drawn by people, not nature. Ask yourself whether you're confusing the map and the territory, and consider whether you are taking the rules too literally.",
   "image": "21.png"
 },
 {
@@ -184,7 +163,6 @@
   "color": "#FFC0CB",
   "attributes": "Volatility (red fire) + Attraction (violet fire)",
   "description": "Addiction, Infatuation, Passion, Obsession",
-  "text": "The guardian of the heart’s flame must tend it with wisdom and measure, ever mindful that what is meant to warm and illuminate should not ravage and consume.",
   "image": "22.png"
 },
 {
@@ -192,7 +170,6 @@
   "color": "#FFC0CB",
   "attributes": "Stability (red earth) + Repulsion (purple air)",
   "description": "Power, Authority, Strength, Command",
-  "text": "A mighty oak commands respect as it stands silently in the forest. Now is a time to remain quiet in order to preserve your personal power. You don’t owe everyone an explanation.",
   "image": "23.png"
 },
 {
@@ -200,7 +177,6 @@
   "color": "#FFC0CB",
   "attributes": "Volatility (red fire) + Repulsion (violet air)",
   "description": "Composure, Dignity, Poise, Aplomb",
-  "text": "Those who step back from the blaze avoid choking on its fumes and losing their composure. Step back from the fray in order to preserve your dignity, ensuring you don't lose your poise amidst the confusion.",
   "image": "24.png"
 },
 {
@@ -208,7 +184,6 @@
   "color": "#FFD700",
   "attributes": "Creation (orange spirit) + Movement (yellow air)",
   "description": "Ideas, Concepts, Plans, Invention",
-  "text": "Invention is an act of incarnation, where ethereal thought is given flesh and bone. Now is a time to stand at the nexus of heaven and earth, and pull the unseen into the realm of the seen.",
   "image": "25.png"
 },
 {
@@ -216,7 +191,6 @@
   "color": "#FFD700",
   "attributes": "Destruction (orange fire) + Movement (yellow air)",
   "description": "Recklessness, Carelessness, Temerity, Insolence",
-  "text": "Approach the forge of creativity with wisdom and caution, for the same fire that forges untold beauty and utility also bears the potential to unleash unheralded devastation.",
   "image": "26.png"
 },
 {
@@ -224,7 +198,6 @@
   "color": "#FFD700",
   "attributes": "Creation (orange spirit) + Rest (yellow water)",
   "description": "Dream, Vision, Divination, Trance",
-  "text": "In the heart of dreams, where the individual melds with the universal, we find visions with the power to transform the world. The ego must temporarily recede to make room for gifts from the deeper self.",
   "image": "27.png"
 },
 {
@@ -232,7 +205,6 @@
   "color": "#FFD700",
   "attributes": "Destruction (orange fire) + Rest (yellow water)",
   "description": "Abdication, Abandonment, Repression, Neglect",
-  "text": "Our capacity for vision is not a luxury, but a charge laid upon us all. To answer the worldly call to abdicate our dreams is to betray the divine spark within.",
   "image": "28.png"
 },
 {
@@ -240,7 +212,6 @@
   "color": "#808000",
   "attributes": "Creation (orange spirit) + Endowment (green earth)",
   "description": "Collaboration, Partnership, Cooperation, Teamwork",
-  "text": "Soil needs to be enriched by diverse elements in order to support a thriving garden. Use the amplifying power of intersecting ideas to solve a difficult challenge.",
   "image": "29.png"
 },
 
@@ -249,7 +220,6 @@
   "color": "#808000",
   "attributes": "Destruction (orange fire) + Endowment (green earth)",
   "description": "Cruelty, Callousness, Malice, Abuse",
-  "text": "Cruelty can be a seductive force that strips away humanity and erodes the soul. Resist the fleeting thrill of anger, and choose instead to nurture and protect the vulnerable landscape of compassion.",
   "image": "30.png"
 },
 {
@@ -257,7 +227,6 @@
   "color": "#808000",
   "attributes": "Creation  (orange spirit) + Acceptance (green water)",
   "description": "Blessing, Love, Devotion, Service",
-  "text": "The soul comes into its own luminance when the eclipse of the ego recedes. Now is a time to put the needs of another before your own.",
   "image": "31.png"
 },
 {
@@ -265,7 +234,6 @@
   "color": "#808000",
   "attributes": "Destruction (orange fire) + Acceptance (green water)",
   "description": "Trauma, Wounds, Baggage, Turmoil",
-  "text": "Steam rising slowly reveals the hidden contours of what it envelops, much like acknowledging our oldest wounds can uncover patterns that shape our present selves. Pay respect to these formative scars, taking time to trace their influence on your current behaviors and reactions.",
   "image": "32.png"
 },
 {
@@ -273,7 +241,6 @@
   "color": "#DDA0DD",
   "attributes": "Creation (orange spirit) + Expansion (blue air)",
   "description": "Hindsight, Perspective, Appreciation, Retrospection",
-  "text": "Envision this day as if you are reliving it from the future with the clarity of hindsight.",
   "image": "33.png"
 },
 {
@@ -281,7 +248,6 @@
   "color": "#DDA0DD",
   "attributes": "Destruction (orange fire) + Expansion (blue air)",
   "description": "Disputes, Fighting, Arguments, Confrontations",
-  "text": "Smoke, when it billows and spreads, drives people to seek refuge from its suffocating embrace. Realize that attacking a person only makes them retreat deeper into their safe zones; it does not lead them to where you are.",
   "image": "34.png"
 },
 {
@@ -289,7 +255,6 @@
   "color": "#DDA0DD",
   "attributes": "Creation (orange spirit) + Contraction (blue earth)",
   "description": "Prematurity, Eagerness",
-  "text": "Unprepared soil will not sustain even the heartiest of seeds. Ask yourself whether you're truly ready for what you think you want.",
   "image": "35.png"
 },
 {
@@ -305,7 +270,6 @@
   "color": "#A0522D",
   "attributes": "Creation (orange spirit) + Revelation (indigo spirit)",
   "description": "Discovery, Unveiling, Realization, Epiphany",
-  "text": "The cosmos cannot be fully appreciated through a telescope alone, but requires a soft gaze that captures the nuance of its grand tapestry. Look at the situation with soft eyes to see the subtle details hidden when you stare too intensely and narrowly.",
   "image": "37.png"
 },
 {
@@ -313,7 +277,6 @@
   "color": "#A0522D",
   "attributes": "Destruction (orange fire) + Revelation (indigo spirit)",
   "description": "Harbinger, Warning, Portent, Threat",
-  "text": "The tempest seldom descends without warning, with the sky replete with heralds singing preludes to the thunder. Attune to the whispers on the wind, lest the storm catch you unaware.",
   "image": "38.png"
 },
 {
@@ -321,7 +284,6 @@
   "color": "#A0522D",
   "attributes": "Creation (orange spirit) + Mystery (indigo water)",
   "description": "Seeking, Exploration, Questioning, Investigation",
-  "text": "The moon, veiling its full glory behind phases and shadows, teaches that the true value of a secret lies not merely in its revelation but in the journey it prompts us to undertake. It is the quest to unveil the hidden corners of existence that transforms the seeker.",
   "image": "39.png"
 },
 
@@ -330,7 +292,6 @@
   "color": "#A0522D",
   "attributes": "Destruction (orange fire) + Mystery (indigo water)",
   "description": "Illusion, Artifice, Pretense, Mirage",
-  "text": "We find ourselves in a labyrinth of facades and illusions, beset by cathedrals built on foundations of mist masquerading as bedrock truth. Now is a time to interrogate the core assumptions of your culture.",
   "image": "40.png"
 },
 {
@@ -338,7 +299,6 @@
   "color": "#FF7F50",
   "attributes": "Creation (orange spirit) + Attraction (violet fire)",
   "description": "Confidence, Conviction, Fatih, Certitude",
-  "text": "Brimming with power just beneath its surface, the volcano embodies the principle of imminent potential. Act as if you already possess that which you seek, and you will soon find it erupting into reality, shaping the landscape of your life.",
   "image": "41.png"
 },
 {
@@ -346,7 +306,6 @@
   "color": "#FF7F50",
   "attributes": "Destruction (orange fire) + Attraction (violet fire)",
   "description": "Delirium, Mania, Intoxication, Frenzy",
-  "text": "Beware that frenzied lust for the vibrancy of life, which all too often veils an enchantment with the shadowy allure of death.",
   "image": "42.png"
 },
 {
@@ -354,7 +313,6 @@
   "color": "#FF7F50",
   "attributes": "Creation (orange spirit) + Repulsion (violet air)",
   "description": "Nuance, Subtlety, Intricacy, Finesse",
-  "text": "The sun reveals not just darkness and light, but the myriad shades between. Wisdom brings with it the ability to see nuance, encouraging us to abandon the blindness of labels and false dichotomies.",
   "image": "43.png"
 },
 {
@@ -362,7 +320,6 @@
   "color": "#FF7F50",
   "attributes": "Destruction (orange fire) + Repulsion (violet air)",
   "description": "Delusion, Conceit, Mirage, Hallucination",
-  "text": "Visible yet intangible, easy to shape but hard to hold. The lies we tell ourselves are the hardest to detect. Ask yourself what smokescreen you have recently put over your own eyes.",
   "image": "44.png"
 },
 {
@@ -370,7 +327,6 @@
   "color": "#7FFF00",
   "attributes": "Movement (yellow air) + Endowment (green earth)",
   "description": "Guidance, Counsel, Direction, Advice",
-  "text": "Seasoned wood becomes more valuable when crafted into tools and shared with others. Offer a gift of true worth by educating someone on a topic you know well, transforming your knowledge into a tool that empowers others.",
   "image": "45.png"
 },
 {
@@ -378,7 +334,6 @@
   "color": "#7FFF00",
   "attributes": "Rest (yellow water) + Endowment (green earth)",
   "description": "Comfort, Relief, Solace, Relaxation",
-  "text": "At times, every person needs to feel an even road beneath their change-weary feet. Lay down the burden of endless becoming for a while, and simply stroll along the bricks of being.",
   "image": "46.png"
 },
 {
@@ -386,7 +341,6 @@
   "color": "#7FFF00",
   "attributes": "Movement (yellow air) + Acceptance (green water)",
   "description": "Gratitude, Appreciation, Tribute, Gramercy",
-  "text": "Our gratitude must not linger solely on the clear blue of fair days but must also embrace the brooding expanse of clouds that darken the sky. The heaviest rain may bring with it the richest blessings.",
   "image": "47.png"
 },
 {
@@ -394,7 +348,6 @@
   "color": "#7FFF00",
   "attributes": "Rest (yellow water) + Acceptance (green water)",
   "description": "Forgiveness, Clemency, Absolution, Amnesty",
-  "text": "The vastness of the sea speaks to the enormity of the world, and the capacity to forgive reveals the immeasurable depth of the soul. Forgiveness charts a course towards healing and unity, proving that the greatest power wielded by humankind is that of an open, forgiving heart.",
   "image": "48.png"
 },
 {
@@ -402,15 +355,14 @@
   "color": "#00FF00",
   "attributes": "Movement (yellow air) + Expansion (blue air)",
   "description": "Vitality, Zeal, Enthusiasm, Ardor",
-  "text": "Surround yourself with the winds that once lifted you, reconnecting with specific moments in the past that filled you with a sense of personal power and resilience.",
   "image": "49.png"
 },
+
 {
   "name": "GREEN RAIN",
   "color": "#00FF00",
   "attributes": "Rest (yellow water) + Expansion (blue air)",
   "description": "Nourishment, Sustenance, Provision, Nutrition",
-  "text": "A silent covenant with the universe exists, promising provision to those who navigate the world not with demands, but with reverence.",
   "image": "50.png"
 },
 {
@@ -418,7 +370,6 @@
   "color": "#00FF00",
   "attributes": "Movement (yellow air) + Contraction (blue earth)",
   "description": "Hunger, Lack, Scarcity, Deprivation",
-  "text": "Hunger whispers to us harsh lessons on the value of what is gone and the preciousness of what remains. Do not forget the lessons that past scarcity has taught.",
   "image": "51.png"
 },
 {
@@ -426,7 +377,6 @@
   "color": "#00FF00",
   "attributes": "Rest (yellow water) + Contraction (blue earth)",
   "description": "Hibernation, Slumber, Inactivity, Recovery",
-  "text": "Moments of quietude can renew the spirit for challenges and joys that await. Rest is not mere idleness, it is a season of the soul.",
   "image": "52.png"
 },
 {
@@ -434,7 +384,6 @@
   "color": "#CD7F32",
   "attributes": "Movement (yellow air) + Revelation (indigo spirit)",
   "description": "Truth, Sincerity, Authenticity, Candor",
-  "text": "In the moment of choosing candor, one unlocks a reservoir of potential, previously dammed by the efforts of disguise. Untether yourself from the trappings of pretense and the weight of unspoken truths.",
   "image": "53.png"
 },
 {
@@ -442,7 +391,6 @@
   "color": "#CD7F32",
   "attributes": "Rest (yellow water) + Revelation (indigo spirit)",
   "description": "Transparency, Clarity, Visibility, Exposure",
-  "text": "The moon orchestrates the tides through a subtle, yet powerful influence. Shine some light on a hidden desire within you in order to free yourself from its unconscious gravitational sway.",
   "image": "54.png"
 },
 {
@@ -450,7 +398,6 @@
   "color": "#CD7F32",
   "attributes": "Movement (yellow air) + Mystery (indigo water)",
   "description": "Guile, Trickery, Stealth, Cunning",
-  "text": "Will what was wrought of trickery stand as a testament to a clever turning of the tables or a hollow victory born of deceit? Will you be proud of what you did under the cloak of stealth?",
   "image": "55.png"
 },
 {
@@ -458,7 +405,6 @@
   "color": "#CD7F32",
   "attributes": "Rest (yellow water) + Mystery (indigo water)",
   "description": "Mystique, Secrecy, Concealment, Furtiveness",
-  "text": "The deep and enigmatic ocean conceals its mysteries beneath waves, accumulating strength in the hidden dark. Use the power of mystery by safeguarding a secret treasure, for a thing shielded from view gathers power to itself.",
   "image": "56.png"
 },
 {
@@ -466,7 +412,6 @@
   "color": "#DA70D6",
   "attributes": "Movement (yellow air) + Attraction (violet fire)",
   "description": "Allure, Charm, Glamor, Charisma",
-  "text": "The magnetic pull of charisma is rooted not in the bearer's perfection but in the intensity of their divine inner fire. Charisma reflects the presence of divinity in a person, but can also blind us to their flaws.",
   "image": "57.png"
 },
 {
@@ -474,7 +419,6 @@
   "color": "#DA70D6",
   "attributes": "Rest (yellow water) + Attraction (violet fire)",
   "description": "Awe, Wonder, Reverie, Amazement",
-  "text": "Swirling and ethereal steam draws the eye upward as it rises. Seek an awe-inspiring encounter to redirect your attention toward the cosmos above, and reconnect to the gaze of the divine.",
   "image": "58.png"
 },
 {
@@ -482,7 +426,6 @@
   "color": "#DA70D6",
   "attributes": "Movement (yellow air) + Repulsion (violet air)",
   "description": "Horror, Fear, Dismay, Trepidation",
-  "text": "Nature abhors a vacuum, and wind quickly rushes in to fill all voids. Instead of trying to banish fear, invite the vigorous wind to displace it with courage.",
   "image": "59.png"
 },
 
@@ -491,7 +434,6 @@
   "color": "#DA70D6",
   "attributes": "Rest (yellow water) + Repulsion (violet air)",
   "description": "Ennui, Listlessness, Banality, Boredom",
-  "text": "The torment of ennui is the pain of being an instrument unplayed, a potential unfulfilled. However, to be unplayed is not to be unplayable, as the moment of silence itself might yet be part of some greater symphony.",
   "image": "60.png"
 },
 {
@@ -499,7 +441,6 @@
   "color": "#4A708B",
   "attributes": "Endowment (green earth) + Expansion (blue air)",
   "description": "Advocacy, Assistance, Support, Endorsement",
-  "text": "The advocate is a tree that provides an elevated platform, a vantage from which another can project. Someone is currently in need of your support.",
   "image": "61.png"
 },
 {
@@ -507,7 +448,6 @@
   "color": "#4A708B",
   "attributes": "Acceptance (green water) + Expansion (blue air)",
   "description": "Change, Revision, Adjustment, Modification",
-  "text": "Even as a storm ruins our plans, our world is nourished and renewed by its waters. Embrace the fact that change does not have to be interpreted as loss, recognizing that each downpour reshapes our world, offering new forms of abundance.",
   "image": "62.png"
 },
 {
@@ -515,7 +455,6 @@
   "color": "#4A708B",
   "attributes": "Endowment (green earth) + Contraction (blue earth)",
   "description": "Selfishness, Possessiveness, Greed, Rapacity",
-  "text": "Each thing we grasp adds to the weight of the stone ballast that binds us. Instead of grasping for more right now, try letting something go.",
   "image": "63.png"
 },
 {
@@ -523,7 +462,6 @@
   "color": "#4A708B",
   "attributes": "Acceptance (green water) + Contraction (blue earth)",
   "description": "Constraint, Limitation, Stricture, Hindrance",
-  "text": "Pay attention to the tools you're using and how they're shaping you, bringing their subtle influence into the light to ensure they serve rather than confine your intentions.",
   "image": "64.png"
 },
 {
@@ -539,7 +477,6 @@
   "color": "#9AB973",
   "attributes": "Acceptance (green water) + Revelation (indigo spirit)",
   "description": "Contemplation, Meditation, Reflection, Rumination",
-  "text": "In the moon's act of quiet reflection, the passive echoing of a greater luminance, the perfect model of meditation is found. Now is the time for silent contemplation.",
   "image": "66.png"
 },
 {
@@ -547,7 +484,6 @@
   "color": "#9AB973",
   "attributes": "Endowment (green earth) + Mystery (indigo water)",
   "description": "Mysticism, Esotericism, Occultism, Arcana",
-  "text": "The garden walls of esoterica keep out the harsh light of prose and insulate the gentle poetry of understanding. Only through faith and dedication shall you pierce the veil of superficial inquiry.",
   "image": "67.png"
 },
 {
@@ -555,7 +491,6 @@
   "color": "#9AB973",
   "attributes": "Acceptance (green water) + Mystery (indigo water)",
   "description": "Autonomy, Sovereignty, Freedom, Independence",
-  "text": "The act of charting your own course, unfettered by the dictates of another's compass, leads to self-discovery. It is time to make some decisions on your own.",
   "image": "68.png"
 },
 
@@ -564,7 +499,6 @@
   "color": "#FF00FF",
   "attributes": "Endowment (green earth) + Attraction (violet fire)",
   "description": "Adulation, Reverence, Tribute, Praise",
-  "text": "The adulation of others is a treacherous desert, where today's dunes of acclaim may tomorrow be swept away by the winds of indifference. Careful not to build your self-image upon the shifting sands of praise.",
   "image": "69.png"
 },
 
@@ -573,7 +507,6 @@
   "color": "#FF00FF",
   "attributes": "Acceptance (green water) + Attraction (violet fire)",
   "description": "Union, Intimacy, Affection, Warmth",
-  "text": "Steam weaves together air and water in a delicate dance of union and creation. Every act of intimacy is an act of creation, crafting something new in the warm dance of convergence.",
   "image": "70.png"
 },
 {
@@ -581,7 +514,6 @@
   "color": "#FF00FF",
   "attributes": "Endowment (green earth) + Repulsion (violet air)",
   "description": "Empathy, Compassion, Grace, Mercy",
-  "text": "The growth of a tree is shaped by the pressures and injuries it endures. If you have an enemy, take time to imagine how their pain has influenced their actions, just as gnarled and twisted bark reflects the challenges of a tree’s past.",
   "image": "71.png"
 },
 {
@@ -589,7 +521,6 @@
   "color": "#FF00FF",
   "attributes": "Acceptance (green water) + Repulsion (violet air)",
   "description": "Timelessness, Perpetuity, Recurrence, Eternity",
-  "text": "The distance between raindrops is only an illusion born by time, as they are both past elements of the same cloud; future elements of the same pond. Remember that outside of time we are one connected organism, and let that guide your interactions with others today.",
   "image": "72.png"
 },
 {
@@ -597,7 +528,6 @@
   "color": "#0047AB",
   "attributes": "Expansion (blue air) + Revelation (indigo spirit)",
   "description": "Awakening, Enlightenment, Consciousness, Understanding",
-  "text": "The sunlight, merciless in its clarity, shines a light on all there is to behold and understand. You must confront both the beauty and the terror of the truth with eyes wide open, unflinching in the face of what the light reveals.",
   "image": "73.png"
 },
 {
@@ -605,7 +535,6 @@
   "color": "#0047AB",
   "attributes": "Contraction (blue earth) + Revelation (indigo spirit)",
   "description": "Reticence, Reserve, Privacy, Discretion",
-  "text": "Soil conceals the seeds of future blossoms, nurturing them in darkness until they are ready to emerge into light. Keep your idea to yourself for now, and let it incubate beneath the surface a bit longer.",
   "image": "74.png"
 },
 {
@@ -613,7 +542,6 @@
   "color": "#0047AB",
   "attributes": "Expansion (blue air) + Mystery (indigo water)",
   "description": "Innocence, Naivete, Openness, Trust",
-  "text": "The sacred rain of trust erodes the cynical sediment concealing soul’s naive bedrock. Only through an open and vulnerable heart can a true connection be made.",
   "image": "75.png"
 },
 {
@@ -621,7 +549,6 @@
   "color": "#0047AB",
   "attributes": "Contraction (blue earth) + Mystery (indigo water)",
   "description": "Arrogance, Myopia, Prejudice, Dogmatism",
-  "text": "Soft and malleable clay, replete with possibilities, hardens into rigid and unyielding brick. Reflect on whether you have allowed your suspicions to harden into belief, and consider the flexibility lost in this transformation.",
   "image": "76.png"
 },
 {
@@ -629,7 +556,6 @@
   "color": "#4169E1",
   "attributes": "Expansion (blue air) + Attraction (violet fire)",
   "description": "Intention, Manifestation, Substantiation, Incarnation",
-  "text": "The smoke of ceremonial incense carries intentions upward and outward, permeating the space with purpose. Your intentions will only manifest into reality if you express them clearly, making the unseen desires known through communication or ritual.",
   "image": "77.png"
 },
 {
@@ -637,7 +563,6 @@
   "color": "#4169E1",
   "attributes": "Contraction (blue earth) + Attraction (violet fire)",
   "description": "Conflict, Friction, Contention, Dispute",
-  "text": "An unexpected patch of sand can surprise and destabilize even the most balanced footing. Prepare for the shifting grounds of conflict, steadying yourself to respond thoughtfully rather than reacting impulsively.",
   "image": "78.png"
 },
 {
@@ -645,7 +570,6 @@
   "color": "#4169E1",
   "attributes": "Expansion (blue air) + Repulsion (violet air)",
   "description": "Defiance, Rebellion, Revolt, Pluck",
-  "text": "Now is the time to harness the untameable and unpredictable spirit of the wind, displaying a little defiance where convention expects compliance.",
   "image": "79.png"
 },
 
@@ -654,7 +578,6 @@
   "color": "#4169E1",
   "attributes": "Contraction (blue earth) + Repulsion (violet air)",
   "description": "Management, Hierarchy, Control, Bureaucracy",
-  "text": "Once part of a unified forest, trees can be carved into the barriers that define an organization. Beware the pitfalls of such structures, as they often mark the distance between those who wield power and those who are subject to it.",
   "image": "80.png"
 },
 {
@@ -662,7 +585,6 @@
   "color": "#E6E6FA",
   "attributes": "Revelation (indigo spirit) + Attraction (violet fire)",
   "description": "Art, Creativity, Imagination, Inspiration",
-  "text": "As molten lava sculpts new terrains, so does the artist shape new realities, engaging in a ritual that resonates with the deepest rhythms of the universe. If you are looking for a way to commune with the divine, bring a new creation into the world.",
   "image": "81.png"
 },
 {
@@ -670,7 +592,6 @@
   "color": "#E6E6FA",
   "attributes": "Mystery (indigo water) + Attraction (violet fire)",
   "description": "Transcendence, Sanctity, Holiness, Numinosity",
-  "text": "Rising in ghostly wisps from boiling water, steam serves both as an indicator of the unseen heat below and a warning of the intense power lurking just out of sight. The eeriness of numinosity indicates that we are close to the heart of The Great Mystery, to the sacred fire from which all warmth flows.",
   "image": "82.png"
 },
 {
@@ -678,7 +599,6 @@
   "color": "#E6E6FA",
   "attributes": "Revelation (indigo spirit) + Repulsion (violet air)",
   "description": "Judgment, Discernment, Sophistication, Erudition",
-  "text": "Just as the sun separates light from darkness, so must we discern the noise of our ego from the signal of our deeper self, allowing true insight to illuminate our path.",
   "image": "83.png"
 },
 {
@@ -686,7 +606,9 @@
   "color": "#E6E6FA",
   "attributes": "Mystery (indigo water) + Repulsion (violet air)",
   "description": "Nescience, Naivety, Inexperience, Immaturity",
-  "text": "Rain touching soil merely begins the vast process of transformation and growth. Exercise patience and humility, for only a few drops have fallen thus far, and you have much to absorb and understand at this early stage of your journey.",
   "image": "84.png"
 }
+
+
+
 ]
