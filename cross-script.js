@@ -17,7 +17,11 @@ function loadReadings() {
 
 // Function to fetch a random reading object from the loaded readings array
 function getRandomReading() {
-    const index = Math.floor(Math.random() * readings.length);
+    // const index = Math.floor(Math.random() * readings.length);
+    var random = new Alea();
+    console.log(index);
+    var index = Math.floor(random() * readings.length);
+    console.log(index);
     return readings[index];
 }
 
